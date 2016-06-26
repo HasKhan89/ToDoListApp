@@ -1,0 +1,6 @@
+C:\Users\HasKhan\Desktop\TodoListApp\TodoListApp\bin\Debug\TodoListApp.exe.config
+C:\Users\HasKhan\Desktop\TodoListApp\TodoListApp\bin\Debug\TodoListApp.exe
+C:\Users\HasKhan\Desktop\TodoListApp\TodoListApp\bin\Debug\TodoListApp.pdb
+C:\Users\HasKhan\Desktop\TodoListApp\TodoListApp\obj\Debug\TodoListApp.csprojResolveAssemblyReference.cache
+C:\Users\HasKhan\Desktop\TodoListApp\TodoListApp\obj\Debug\TodoListApp.exe
+C:\Users\HasKhan\Desktop\TodoListApp\TodoListApp\obj\Debug\TodoListApp.pdb
